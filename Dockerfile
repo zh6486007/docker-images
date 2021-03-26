@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:v1.3.0
+From quay.io/strimzi/kafka-bridge:0.19.0
