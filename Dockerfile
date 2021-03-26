@@ -1,1 +1,1 @@
-From quay.io/strimzi/operator:0.21.0
+From quay.io/strimzi/kafka:0.21.0-kafka-2.7.0
