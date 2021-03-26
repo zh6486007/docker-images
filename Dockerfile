@@ -1,1 +1,1 @@
-From quay.io/strimzi/jmxtrans:0.21.0
+From gcr.io/kaniko-project/executor:v1.3.0
