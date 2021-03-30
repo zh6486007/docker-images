@@ -1,1 +1,1 @@
-From quay.io/strimzi/kafka-bridge:0.19.0
+From gcr.io/knative-releases/knative.dev/eventing-contrib/cmd/event_display
